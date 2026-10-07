@@ -125,6 +125,7 @@ table.reg{width:100%;border-collapse:collapse;background:var(--paper2);font-size
 .reg .cat{font-size:9px;letter-spacing:.12em;border:1px solid var(--line);padding:2px 7px;white-space:nowrap}
 .reg .cat.p{background:#E8EEE6}
 .reg .cat.c{background:#EDE6DF}
+.reg .cat.s{background:#E3E9F2}
 .reg a.media{text-decoration:none;border-bottom:1px solid var(--faint)}
 .reg a.media:hover{border-bottom-color:var(--ink)}
 @media(max-width:760px){
